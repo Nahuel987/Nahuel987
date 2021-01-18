@@ -5,6 +5,6 @@ Titulado de Ingeniería en Computación e Informática, actualmente me dedico al
 Habilidades: Java / J2ee / JS / Kotlin / HTML / CSS/ C# / Php
 
 - 🔭 Estoy trabajando en IndicaApp 
-- 🌱 Estoy aprendiendo LifeData 
+- 🌱 Estoy aprendiendo LiveData 
 - 💬 Pregúntame acerca de Android 
 - ⚡ Dato curioso: Tio Rico McPato el personaje de ficción mas rico, según Forbes 
