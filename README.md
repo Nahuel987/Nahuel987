@@ -2,7 +2,7 @@
 #### Soy Nahuel
 Titulado de Ingeniería en Computación e Informática, actualmente me dedico al desarrollo de app's en Android, donde cada día aprendo algo nuevo de este maravilloso mundo.
 
-Habilidades: Java / J2ee / JS / Kotlin / HTML / CSS/ C# / Php
+Habilidades: Java / J2ee / JS / Kotlin / HTML / CSS/ 
 
 - 🔭 Estoy trabajando en IndicaApp 
 - 🌱 Estoy aprendiendo LiveData 
